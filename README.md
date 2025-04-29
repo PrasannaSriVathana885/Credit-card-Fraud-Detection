@@ -5,6 +5,7 @@ Build a classification model to detect fraudulent transactions efficiently.
 
 ## 📁 Dataset
 Includes transaction amount, merchant details, timestamps, and more.
+Dataset size is above 25MB.
 
 ## ✅ Features
 - Class imbalance handling using Oversampling, Undersampling and SMOTE
